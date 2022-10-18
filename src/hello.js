@@ -1,4 +1,4 @@
-function hello(name = 'World'){
+function hello(name){
     return `Hello ${name}!`
 }
 
